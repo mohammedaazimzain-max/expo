@@ -21,7 +21,7 @@ img{
    position: absolute;
    top:5cm;
    left:0.5cm;
-    height:250px; width:250px;
+    height:500px; width:500px;
     border-radius: 100%;
     
 }
@@ -37,7 +37,7 @@ img{
   border: 2px solid #130b0b;  /* Add border */
   border-radius: 8px;      /* Rounded corners */
   background-color: #ed0f0f; /* Background around player */
-  rotate:270deg;
+  
 }
 #hmm
 {   font-family: sans-serif;
@@ -70,6 +70,7 @@ padding-top:1cm ;
 #fight{
     padding-bottom: 0%;
 }
+
 
 
 

@@ -7,7 +7,7 @@ body{
     color: olive;
     background:linear-gradient(320deg,rgb(235, 235, 121),rgb(152, 237, 181),rgb(244, 146, 128));
     display:inline-block;
-    padding:100px;
+    padding:10px;
     border-radius:20%;
     box-shadow: 2.5cm;
     border-top-right-radius:20cm;
@@ -67,5 +67,6 @@ padding-top:1cm ;
 #fight{
     padding-bottom: 0%;
 }
+
 
 

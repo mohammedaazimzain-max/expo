@@ -14,6 +14,8 @@ body{
     border-top-right-radius:20cm;
     line-height:3px;
 }
+.gap{ margin-top:2cm;
+}
 img{
     justify-content: left;
    position: absolute;
@@ -68,6 +70,7 @@ padding-top:1cm ;
 #fight{
     padding-bottom: 0%;
 }
+
 
 
 

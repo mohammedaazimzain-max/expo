@@ -8,7 +8,7 @@ body{
     background:linear-gradient(320deg,rgb(235, 235, 121),rgb(152, 237, 181),rgb(244, 146, 128));
     display:inline-block;
     padding:70px;
-    font-size: small;
+    font-size: medium;
     border-radius:20%;
     box-shadow: 2.5cm;
     border-top-right-radius:20cm;
@@ -21,7 +21,7 @@ img{
    position: absolute;
    top:5cm;
    left:0.5cm;
-    height:150px; width:150px;
+    height:250px; width:250px;
     border-radius: 100%;
     
 }
@@ -70,6 +70,7 @@ padding-top:1cm ;
 #fight{
     padding-bottom: 0%;
 }
+
 
 
 

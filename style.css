@@ -37,7 +37,7 @@ img{
   border: 2px solid #130b0b;  /* Add border */
   border-radius: 8px;      /* Rounded corners */
   background-color: #ed0f0f; /* Background around player */
-  
+  rotate:90deg;
 }
 #hmm
 {   font-family: sans-serif;
@@ -70,6 +70,7 @@ padding-top:1cm ;
 #fight{
     padding-bottom: 0%;
 }
+
 
 
 

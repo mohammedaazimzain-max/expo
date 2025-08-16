@@ -20,8 +20,8 @@ img{
     justify-content: left;
    position: absolute;
    top:5cm;
-   left:0.5cm;
-    height:180px; width:180px;
+   left:0.4cm;
+    height:200px; width:200px;
     border-radius: 100%;
     
 }
@@ -32,7 +32,7 @@ img{
   
   position: absolute;  /* Position on page */
   top: 15cm;          /* Distance from top */
-  left: 1cm;          /* Distance from left */
+  left: 0.8cm;          /* Distance from left */
   
   border: 2px solid #130b0b;  /* Add border */
   border-radius: 8px;      /* Rounded corners */
@@ -70,6 +70,7 @@ padding-top:1cm ;
 #fight{
     padding-bottom: 0%;
 }
+
 
 
 
